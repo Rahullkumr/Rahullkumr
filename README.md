@@ -1,6 +1,4 @@
-### Hola, I'm Rahul Kumar 👋
-
-## I'm a Student, Developer, and Thinker !!
+### Hola, I'm Rahul Kumar 👋!!
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning everything 🤣
