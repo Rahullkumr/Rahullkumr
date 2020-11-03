@@ -29,5 +29,3 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=Rahullkumr&&show_icons=true&hide_border=true">
 
-
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
