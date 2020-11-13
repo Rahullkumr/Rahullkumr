@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on **Something Cool**
 - 🌱 I’m currently learning <a href="https://flutter.dev/">**Flutter**</a>
 - 👯 I’m looking to collaborate with **flutter developers**
-- 💬 Ask me about **Git, C++, Javascript, Data Structures and Algorithms**
+- 💬 Ask me about **<a href="https://git-scm.com/">Git</a>, <a href="https://www.cplusplus.com/">C++</a>, <a href="https://www.javascript.com/">Javascript</a>, <a href="https://www.geeksforgeeks.org/data-structures/">Data Structures</a> and <a href="https://www.geeksforgeeks.org/fundamentals-of-algorithms/">Algorithms</a>**
 - 📫 How to reach me **kumarrahul771996@gmail.com**
 - ⚡ Fun fact **haha**
 - 🥅 2021 Goals: Wait and watch
