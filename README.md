@@ -5,7 +5,6 @@
 <a> <img align="left" alt="Rahul | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"> </a>
 <a> <img align="left" alt="Rahul | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /> </a>
 <a> <img align="left" alt="Rahul | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> </a>
-
 <br>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning everything 🤣
