@@ -5,11 +5,16 @@
 <a> <img align="left" alt="Rahul | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"> </a>
 <a> <img align="left" alt="Rahul | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /> </a>
 <a> <img align="left" alt="Rahul | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> </a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rahullkumr" alt="Rahullkumr" /> </p>
 <br>
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other flutter developers
+- 🔭 I’m currently working on **Nothing**
+- 🌱 I’m currently learning **Flutter**
+- 👯 I’m looking to collaborate with **flutter developers**
+- 💬 Ask me about **Git, C++, Javascript, Data Structures and Algorithms**
 - 🥅 2020 Goals: Contribute more to Open Source projects
+- 📫 How to reach me **kumarrahul771996@gmail.com**
+
+- ⚡ Fun fact ****
 
 ### Languages and Tools:
 
@@ -24,5 +29,6 @@
 <img align="left" alt="Dart" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" />
 <img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
 <br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=Rahullkumr&&show_icons=true&hide_border=false">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahullkumr&layout=compact&hide=html&theme=radical" alt="Rahullkumr" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rahullkumr&show_icons=true&hide_border=false&theme=radical" alt="Rahullkumr" />
 
