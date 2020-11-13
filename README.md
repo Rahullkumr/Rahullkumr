@@ -1,12 +1,12 @@
 ## Hi there, I'm Rahul Kumar 👋 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rahullkumr" alt="Rahullkumr" /> </p>
 <a> <img align="left" alt="rahullkumr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /> </a>
 <a> <img align="left" alt="Rahul | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> </a>
 <a> <img align="left" alt="Rahul | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"> </a>
 <a> <img align="left" alt="Rahul | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /> </a>
 <a> <img align="left" alt="Rahul | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> </a>
-<br><br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rahullkumr" alt="Rahullkumr" /> </p>
+<br>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other flutter developers
