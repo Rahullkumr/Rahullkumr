@@ -1,6 +1,6 @@
 ## Hi there, I'm Rahul Kumar 👋 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rahullkumr" alt="Rahullkumr" /> </p>
-<br>
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other flutter developers
