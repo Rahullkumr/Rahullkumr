@@ -1,7 +1,8 @@
 ## Hi there, I'm Rahul Kumar 👋 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rahullkumr" alt="Rahullkumr" /> </p>
+This is the place where I opensource stuff.
 
-- 🔭 I’m currently working on **Nothing**
+- 🔭 I’m currently working on **Something Cool**
 - 🌱 I’m currently learning **Flutter**
 - 👯 I’m looking to collaborate with **flutter developers**
 - 💬 Ask me about **Git, C++, Javascript, Data Structures and Algorithms**
