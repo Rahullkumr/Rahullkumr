@@ -2,12 +2,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rahullkumr" alt="Rahullkumr" /> </p>
 
 - 🔭 I’m currently working on **Something Cool**
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning <a href="https://flutter.dev/">**Flutter**</a>
 - 👯 I’m looking to collaborate with **flutter developers**
 - 💬 Ask me about **Git, C++, Javascript, Data Structures and Algorithms**
-- 🥅 2020 Goals: Contribute more to Open Source projects
 - 📫 How to reach me **kumarrahul771996@gmail.com**
 - ⚡ Fun fact **haha**
+- 🥅 2021 Goals: Wait and watch
 
 ### Languages and Tools:
 
