@@ -32,5 +32,4 @@
 <a> <img align="left" alt="Rahul | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> </a>
 <br><br>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahullkumr&layout=compact&hide=html&theme=radical" alt="Rahullkumr" />
-<br><br><img src="https://github-readme-stats.vercel.app/api?username=Rahullkumr&&show_icons=true&hide_border=false">
 
