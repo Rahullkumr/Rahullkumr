@@ -1,10 +1,13 @@
 ## Hi there, I'm Rahul Kumar 👋 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rahullkumr" alt="Rahullkumr" /> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other flutter developers
+- 🔭 I’m currently working on **Nothing**
+- 🌱 I’m currently learning **Flutter**
+- 👯 I’m looking to collaborate with **flutter developers**
+- 💬 Ask me about **Git, C++, Javascript, Data Structures and Algorithms**
 - 🥅 2020 Goals: Contribute more to Open Source projects
+- 📫 How to reach me **kumarrahul771996@gmail.com**
+- ⚡ Fun fact **haha**
 
 ### Languages and Tools:
 
