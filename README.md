@@ -31,5 +31,5 @@
 <a href="https://www.facebook.com/tunnu.nag"> <img align="left" alt="Rahul | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /> </a>
 <a href="https://twitter.com/"> <img align="left" alt="Rahul | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> </a>
 <br><br>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahullkumr&layout=compact&theme=radical" alt="Rahullkumr" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahullkumr&layout=compact&theme=radical&hide=html" alt="Rahullkumr" />
 
