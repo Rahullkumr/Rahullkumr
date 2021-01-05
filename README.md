@@ -1,6 +1,6 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="300" />
 
-## Hey, I'm [Rahul Kumar!](http://Rahullkumr.in) 👋 <a align="left"> <img src="https://komarev.com/ghpvc/?username=Rahullkumr&label=Views&color=blue&style=plastic" alt="RahulKumar" /> </a>
+## Hey, I'm [Rahul Kumar!](http://Rahullkumr.in) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> <a align="left"> <img src="https://komarev.com/ghpvc/?username=Rahullkumr&label=Views&color=blue&style=plastic" alt="RahulKumar" /> </a>
 
 - 🔭 I’m currently working on **Something Cool**
 - 🌱 I’m currently learning <a href="https://flutter.dev/">**Flutter**</a>
