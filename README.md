@@ -26,7 +26,6 @@
 
 ### Connect with me:
 
-<a href="https://rahullkumr.com/"> <img align="left" alt="rahullkumr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /> </a>
 <a href="https://in.linkedin.com/"> <img align="left" alt="Rahul | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> </a>
 <a href="https://www.instagram.com/"> <img align="left" alt="Rahul | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"> </a>
 <a href="https://www.facebook.com/tunnu.nag"> <img align="left" alt="Rahul | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /> </a>
