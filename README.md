@@ -1,4 +1,3 @@
-![Welcome to the official GitHub profile of @benbalter](https://user-images.githubusercontent.com/282759/84682528-c1d5d300-af03-11ea-9bfb-02854ad0cb20.gif)
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="300" />
 
 ## Hey, I'm [Rahul Kumar!](http://Rahullkumr.in) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> <a align="left"> <img src="https://komarev.com/ghpvc/?username=Rahullkumr&label=Views&color=blue&style=plastic" alt="RahulKumar" /> </a>
