@@ -30,8 +30,13 @@
 <a href="https://twitter.com/"> <img src='https://img.shields.io/badge/twitter-%2300ADD8.svg?&style=for-the-badge&logo=twitter&logoColor=white' height='25'/> </a>
 <br><br>
 <a href="https://github.com/Rahullkumr">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahullkumr&layout=compact&theme=radical" alt="Rahullkumr" />
-</a><br>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahullkumr&layout=compact&theme=radical" alt="Rahullkumr" />
+</a>
+<div align="center">
+
+<sup>Best viewed with:</sup><br />![Microsoft Internet Explorer](https://user-images.githubusercontent.com/282759/84683523-52f97980-af05-11ea-9da0-639e1c368536.gif)
+
+</div><br>
 
 <h2 align="center">Sad Day? Let's bring a Smile on your Face :wink:</h2>
 <p align="center">
