@@ -30,7 +30,7 @@
 <a href="https://twitter.com/"> <img src='https://img.shields.io/badge/twitter-%2300ADD8.svg?&style=for-the-badge&logo=twitter&logoColor=white' height='25'/> </a>
 <br><br>
 <a href="https://github.com/Rahullkumr">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahullkumr&layout=compact&theme=radical" alt="Rahullkumr" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahullkumr&layout=compact&theme=radical" alt="Rahullkumr" />
 </a><br>
 
 <h2 align="center">Sad Day? Let's bring a Smile on your Face :wink:</h2>
@@ -45,7 +45,7 @@
 </div>
 <div align="center">
 
-![Hit counter](https://hits.dwyl.com/benbalter/benbalter/benbalter.svg)
+![Hit counter](https://hits.dwyl.com/Rahullkumr/Rahullkumr/Rahullkumr.svg)
 
 </div>
 <div align="center">
