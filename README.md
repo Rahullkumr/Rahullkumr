@@ -1,5 +1,4 @@
-## Hi there, I'm Rahul Kumar 👋 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rahullkumr" alt="Rahullkumr" /> </p>
+## Hey, I'm [Rahul Kumar!](http://Rahullkumr.in) 👋 <a align="left"> <img src="https://komarev.com/ghpvc/?username=Rahullkumr&label=Views&color=blue&style=plastic" alt="burhanrashid52" /> </a>
 
 - 🔭 I’m currently working on **Something Cool**
 - 🌱 I’m currently learning <a href="https://flutter.dev/">**Flutter**</a>
