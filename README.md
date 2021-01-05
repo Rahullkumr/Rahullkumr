@@ -2,10 +2,13 @@
 
 ## Hey, I'm [Rahul Kumar!](http://Rahullkumr.in) 👋 <a align="left"> <img src="https://komarev.com/ghpvc/?username=Rahullkumr&label=Views&color=blue&style=plastic" alt="burhanrashid52" /> </a>
 
+Ask me anything about...
+
+<img src='https://img.shields.io/badge/flutter-%230095D5?logo=flutter&logoColor=blue&style=for-the-badge' height='25'/> <img src='https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge' height='25'/> <img src='https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white' height='25'/> <img src='https://img.shields.io/badge/react-%2300ADD8.svg?&style=for-the-badge&logo=react&logoColor=white' height='25'/>
+
 - 🔭 I’m currently working on **Something Cool**
 - 🌱 I’m currently learning <a href="https://flutter.dev/">**Flutter**</a>
 - 👯 I’m looking to collaborate with **flutter developers**
-- 💬 Ask me about **<a href="https://git-scm.com/">Git</a>, <a href="https://www.cplusplus.com/">C++</a>, <a href="https://www.javascript.com/">Javascript</a>, <a href="https://www.geeksforgeeks.org/data-structures/">DS</a> and <a href="https://www.geeksforgeeks.org/fundamentals-of-algorithms/">Algorithms</a>**
 - 📫 How to reach me **kumarrahul771996@gmail.com**
 - ⚡ Fun fact **haha**
 - 🥅 2021 Goals: Wait and watch
