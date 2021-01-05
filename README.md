@@ -1,8 +1,6 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="300" />
 
-## Hey, I'm [Rahul Kumar!](http://Rahullkumr.in) 👋 <a align="left"> <img src="https://komarev.com/ghpvc/?username=Rahullkumr&label=Views&color=blue&style=plastic" alt="burhanrashid52" /> </a>
-
-<img src='https://img.shields.io/badge/facebook-%230095D5?logo=facebook&logoColor=white&style=for-the-badge' height='25'/> <img src='https://img.shields.io/badge/LinkedIn-3DDC84?logo=linkedin&logoColor=white&style=for-the-badge' height='25'/> <img src='https://img.shields.io/badge/instagram-%230095D5.svg?&style=for-the-badge&logo=instagram&logoColor=white' height='25'/> <img src='https://img.shields.io/badge/twitter-%2300ADD8.svg?&style=for-the-badge&logo=twitter&logoColor=white' height='25'/>
+## Hey, I'm [Rahul Kumar!](http://Rahullkumr.in) 👋 <a align="left"> <img src="https://komarev.com/ghpvc/?username=Rahullkumr&label=Views&color=blue&style=plastic" alt="RahulKumar" /> </a>
 
 - 🔭 I’m currently working on **Something Cool**
 - 🌱 I’m currently learning <a href="https://flutter.dev/">**Flutter**</a>
@@ -27,10 +25,10 @@
 
 ### Connect with me:
 
-<a href="https://in.linkedin.com/"> <img align="left" alt="Rahul | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> </a>
-<a href="https://www.instagram.com/"> <img align="left" alt="Rahul | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"> </a>
-<a href="https://www.facebook.com/tunnu.nag"> <img align="left" alt="Rahul | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /> </a>
-<a href="https://twitter.com/"> <img align="left" alt="Rahul | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> </a>
+<a href="https://in.linkedin.com/"> <img src='https://img.shields.io/badge/LinkedIn-3DDC84?logo=linkedin&logoColor=white&style=for-the-badge' height='25'/> </a>
+<a href="https://www.instagram.com/"> <img src='https://img.shields.io/badge/instagram-%230095D5.svg?&style=for-the-badge&logo=instagram&logoColor=white' height='25'/> </a>
+<a href="https://www.facebook.com/tunnu.nag"> <img src='https://img.shields.io/badge/facebook-%230095D5?logo=facebook&logoColor=white&style=for-the-badge' height='25'/> </a>
+<a href="https://twitter.com/"> <img src='https://img.shields.io/badge/twitter-%2300ADD8.svg?&style=for-the-badge&logo=twitter&logoColor=white' height='25'/> </a>
 <br><br>
 <a href="https://github.com/Rahullkumr">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahullkumr&layout=compact&theme=radical&hide=html" alt="Rahullkumr" />
