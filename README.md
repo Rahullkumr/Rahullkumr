@@ -5,9 +5,9 @@
 Ask me anything about...
 
 <img src='https://img.shields.io/badge/facebook-%230095D5?logo=facebook&logoColor=white&style=for-the-badge' height='25'/> 
-<img src='https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge' height='25'/> 
-<img src='https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white' height='25'/> 
-<img src='https://img.shields.io/badge/react-%2300ADD8.svg?&style=for-the-badge&logo=react&logoColor=white' height='25'/>
+<img src='https://img.shields.io/badge/LinkedIn-3DDC84?logo=linkedin&logoColor=white&style=for-the-badge' height='25'/> 
+<img src='https://img.shields.io/badge/instagram-%230095D5.svg?&style=for-the-badge&logo=instagram&logoColor=white' height='25'/> 
+<img src='https://img.shields.io/badge/twitter-%2300ADD8.svg?&style=for-the-badge&logo=twitter&logoColor=white' height='25'/>
 
 - 🔭 I’m currently working on **Something Cool**
 - 🌱 I’m currently learning <a href="https://flutter.dev/">**Flutter**</a>
