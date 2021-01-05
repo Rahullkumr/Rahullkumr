@@ -33,3 +33,8 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahullkumr&layout=compact&theme=radical&hide=html" alt="Rahullkumr" />
 </a>
 
+<h2 align="center">Sad Day? Let's bring a Smile on your Face :wink:</h2>
+<p align="center">
+<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="400">
+</p>
+
