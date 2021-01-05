@@ -31,19 +31,19 @@
 <br><br>
 
 <a href="https://github.com/Rahullkumr">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahullkumr&layout=compact&theme=radical" alt="Rahullkumr" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahullkumr&layout=compact&theme=radical" alt="Rahullkumr" />
 </a><br>
 
-<div align="center">
+<div align="right">
 
 ![Under construction](https://user-images.githubusercontent.com/282759/84681715-8c7cb580-af02-11ea-85a4-05d069c72121.gif)
 
-</div>
+</div><br><br><br>
 
 <h2 align="center">Sad Day? Let's bring a Smile on your Face :wink:</h2>
 <p align="center">
 <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="400">
-</p>
+</p><br><br><br>
 
 <div align="center">
 
