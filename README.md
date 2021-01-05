@@ -32,7 +32,7 @@
 <a href="https://twitter.com/"> <img align="left" alt="Rahul | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> </a>
 <br><br>
 <a href="https://github.com/iampawan">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahullKumr&theme=light&hide_langs_below=1" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahullKumr&theme=light&hide_langs_below=1" />
 </a>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahullkumr&layout=compact&theme=radical&hide=html" alt="Rahullkumr" />
 
