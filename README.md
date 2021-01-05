@@ -31,7 +31,7 @@
 <br><br>
 
 <a href="https://github.com/Rahullkumr">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahullkumr&layout=compact&theme=radical" alt="Rahullkumr" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahullkumr&layout=compact&theme=radical" alt="Rahullkumr" />
 </a><br>
 
 <h2 align="center">Sad Day? Let's bring a Smile on your Face :wink:</h2>
