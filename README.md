@@ -4,7 +4,7 @@
 
 Ask me anything about...
 
-<img src='https://img.shields.io/badge/facebook-%230095D5?logo=facebook&logoColor=blue&style=for-the-badge' height='25'/> 
+<img src='https://img.shields.io/badge/facebook-%230095D5?logo=facebook&logoColor=white&style=for-the-badge' height='25'/> 
 <img src='https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge' height='25'/> 
 <img src='https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white' height='25'/> 
 <img src='https://img.shields.io/badge/react-%2300ADD8.svg?&style=for-the-badge&logo=react&logoColor=white' height='25'/>
