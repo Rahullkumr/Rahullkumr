@@ -7,7 +7,6 @@
 - 👯 I’m looking to collaborate with **flutter developers**
 - 📫 How to reach me **kumarrahul771996@gmail.com**
 - ⚡ Fun fact **haha**
-- 🥅 2021 Goals: Wait and watch
 
 ### Languages and Tools:
 
