@@ -26,7 +26,7 @@
 <a href="https://in.linkedin.com/"> <img src='https://img.shields.io/badge/LinkedIn-3DDC84?logo=linkedin&logoColor=white&style=for-the-badge' height='25'/> </a>
 <a href="https://www.instagram.com/"> <img src='https://img.shields.io/badge/instagram-%230095D5.svg?&style=for-the-badge&logo=instagram&logoColor=white' height='25'/> </a>
 <a href="https://www.facebook.com/tunnu.nag"> <img src='https://img.shields.io/badge/facebook-%230095D5?logo=facebook&logoColor=white&style=for-the-badge' height='25'/> </a>
-<a href="https://twitter.com/"> <img src='https://img.shields.io/badge/twitter-%2300ADD8.svg?&style=for-the-badge&logo=twitter&logoColor=white' height='25'/> </a>
+<a href="https://twitter.com/Rahul_codingrah"> <img src='https://img.shields.io/badge/twitter-%2300ADD8.svg?&style=for-the-badge&logo=twitter&logoColor=white' height='25'/> </a>
 <br><br>
 
 <a href="https://github.com/Rahullkumr">
