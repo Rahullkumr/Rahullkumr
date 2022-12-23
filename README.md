@@ -3,8 +3,8 @@
 I am Rahul Kumar and I am a Developer.
 
 ## Skills
-- TypeScript, Python, Java
-- React, Flutter
+- JavaScript, Python, Java
+- Flutter
 - Django, NodeJS
 
 ## Contact
