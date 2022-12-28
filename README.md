@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Rahul Kumar and I am a Developer.
+I am Rahul Kumar and I am a MCA student.
 
 ## Skills
 - JavaScript, Python, Java
