@@ -3,14 +3,13 @@
 I am Rahul Kumar and I am a MCA student.
 
 ## Skills
-- JavaScript, Python, Java
+- Python, Java, JavaScript
 - Flutter
 - Django, NodeJS
 
 ## Contact
 - [Email](mailto:kumarrahul771996@gmail.com)
-- [Twitter](https://twitter.com/Rahul_codingrah)
-- [LinkedIn](https://linkedin.com/in/rahullkumr/)
+- [Socials](https://bit.ly/m/codingrah)
 
 ## Resume
 📃 [Google Drive Link](https://drive.google.com/a)
