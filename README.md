@@ -24,6 +24,6 @@ I am Rahul Kumar and I am a MCA student.
 <a href="http://www.github.com/Rahullkumr" width="100%">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahullkumr&show=dart&theme=tokyonight" />
 </a>
-### ✍️Random Dev Quote
+###Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
