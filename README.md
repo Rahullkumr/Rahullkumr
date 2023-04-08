@@ -1,4 +1,4 @@
-### Hi there <h1 align="left" id="macropower-title"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hi there 👋
 
 I am Rahul Kumar and I am a MCA student.
 
