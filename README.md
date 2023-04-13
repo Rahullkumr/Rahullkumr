@@ -25,6 +25,13 @@ I am Rahul Kumar and I am a MCA student.
 
 <h2 align="center">Stats</h2>
 
+<br>
+<br>
+<p align="center">
+    <a href="https://github.com/narayanbavisetti/github-readme-streak-stats">
+        <img alt="Rahul's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Rahullkumr&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
 
 <div align="center">
 
@@ -34,8 +41,6 @@ I am Rahul Kumar and I am a MCA student.
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rahullkumr&layout=compact&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Rahullkumr" />
   
 <img src="https://github-readme-stats.vercel.app/api?username=Rahullkumr&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&include_all_commits=true&count_private=true" alt="Rahullkumr" />
-  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rahullkumr&border=D3D3D3&sideNums=7A7ADB&background=130F40&stroke=6842DB&currStreakNum=7A7ADB&ring=5B3CDD&fire=D3D351&currStreakLabel=D3D3D3&sideLabels=D3D3D3&dates=A3A3A3" />
   
 </div>
 
