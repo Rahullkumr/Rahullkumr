@@ -25,12 +25,10 @@ I am Rahul Kumar and I am a MCA student.
 
 <h2 align="center">Stats</h2>
 
-<br>
-<br>
+<br> <br>
+
 <p align="center">
-    <a href="https://github.com/narayanbavisetti/github-readme-streak-stats">
-        <img alt="Rahul's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Rahullkumr&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+    <img alt="Rahul's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Rahullkumr&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
 </p><br />
 
 <div align="center">
