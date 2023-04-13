@@ -17,8 +17,9 @@ I am Rahul Kumar and I am a MCA student.
 <!--
 
 -->
+<h2 align="center">Languages and Tools:</h2>
 <p align="center"> 
-  <img src="https://skillicons.dev/icons?i=androidstudio,aws,c,c++,html,firebase,flask,js,mysql,php,py,java,vscode,nodejs,electron,git,github,linux,bash,discord,sqlite&perline=9">
+  <img src="https://skillicons.dev/icons?i=androidstudio,aws,c,flutter,html,firebase,flask,js,mysql,php,py,java,vscode,nodejs,electron,git,github,linux,bash,discord,sqlite&perline=7">
 </p>
 
 <h2 align="center">Stats</h2>
