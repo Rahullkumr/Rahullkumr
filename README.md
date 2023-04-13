@@ -48,4 +48,4 @@ I am Rahul Kumar and I am a MCA student.
 </p>
 ----------------
 <br />
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Rahullkumr/Rahullkumr/blob/output/github-contribution-grid-snake.gif)
