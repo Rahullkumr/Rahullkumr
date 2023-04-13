@@ -34,13 +34,13 @@ I am Rahul Kumar and I am a MCA student.
 </p><br />
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rahullkumr&layout=compact&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Rahullkumr" />
-  
-<img src="https://github-readme-stats.vercel.app/api?username=Rahullkumr&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&include_all_commits=false&count_private=true" alt="Rahullkumr" />
   
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Ankit404butfound/Ankit404butfound/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Ankit404butfound/Ankit404butfound/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+  
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rahullkumr&layout=compact&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Rahullkumr" />
+  
+<img src="https://github-readme-stats.vercel.app/api?username=Rahullkumr&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&include_all_commits=false&count_private=true" alt="Rahullkumr" />
   
 </div>
 
