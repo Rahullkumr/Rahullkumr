@@ -33,6 +33,12 @@ I am Rahul Kumar and I am a MCA student.
     </a>
 </p>
 
+<br/>
+    <a href="https://github.com/Rahullkumr/github-readme-stats"><img alt="Rahullkumr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Rahullkumr&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/Rahullkumr/github-readme-stats"><img alt="Rahullkumr's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahullkumr&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<br/>
+
+
 <div align="center">
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Ankit404butfound/Ankit404butfound/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
