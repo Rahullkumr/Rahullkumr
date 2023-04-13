@@ -24,3 +24,17 @@ I am Rahul Kumar and I am a MCA student.
 <!-- <a href="http://www.github.com/Rahullkumr">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahullkumr&show=dart&theme=tokyonight" />
 </a> -->
+
+
+<!--<div align="center">
+<h4> ✍️ Random Dev Quote</h4>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&border=D3D3D3&theme=algolia"/>
+</div>-->
+<p align="center">
+    <img src="https://raw.githubusercontent.com/Ankit404butfound/Ankit404butfound/main/assets/bye.svg">
+</p>
+<!--<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
+<br>
+<p align="center">
+    <h1 align="center">✩&emsp;drknzz&emsp;✩</h1>
+</p>-->
