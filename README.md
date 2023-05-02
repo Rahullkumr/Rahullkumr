@@ -3,7 +3,7 @@
 I am Rahul Kumar and I am a MCA student.
 
 ## Skills
-- Python, Java, JavaScript
+- Python, Java, JavaScript, C++
 - Flutter
 - Django, NodeJS
 
