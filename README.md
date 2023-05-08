@@ -5,7 +5,7 @@ I am Rahul Kumar and I am a MCA student.
 ## Skills
 - Python, Java, JavaScript
 - Flutter
-- Django, NodeJS
+- Flask, MYSQL
 
 ## Contact
 - [Email](mailto:kumarrahul771996@gmail.com)
