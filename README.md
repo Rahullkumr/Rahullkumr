@@ -1,9 +1,9 @@
-### Hi there, I'm Rahul 👋
-Python Developer
+### Hi there 👋
+I am Rahul Kumar, MCA student.
 
 ## Skills
 - Python, Java, Dart
-- Flutter, Flask
+- Flask, Flutter
 - MYSQL
 
 ## Contact
