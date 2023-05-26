@@ -112,7 +112,7 @@ I am Rahul Kumar, MCA student.
   
 </div>
 
-<br />
+<br /><br />
 <p align="center">
     <img src="https://github.com/Rahullkumr/Rahullkumr/blob/main/bye.svg">
 </p>
