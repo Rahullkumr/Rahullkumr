@@ -39,5 +39,5 @@ I am Rahul Kumar, MCA student.
 </p>
 <br>
 <p>
-  <img src = "/dynamic_hr.gif">
+  <img src = "dynamic_hr.gif">
 </p>
