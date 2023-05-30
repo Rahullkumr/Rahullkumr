@@ -2,8 +2,9 @@
 I am Rahul Kumar, MCA student.
 
 ## Skills <img src = "/tag.webp" width = 32px>
-- Python, Java, Dart
+- Python, Java, C++, Dart
 - Flask, Flutter
+- Node.js 
 - MYSQL
 
 ## Contact
