@@ -9,7 +9,7 @@ I am Rahul Kumar, MCA student.
 
 ## Contact
 - [Email](mailto:kumarrahul771996@gmail.com)
-- [Socials](https://bit.ly/m/codingrah)
+- [Connect With Me](https://bit.ly/m/codingrah)
 
 ## Resume
 📃 [Google Drive Link](https://drive.google.com/a)
