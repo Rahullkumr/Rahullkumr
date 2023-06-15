@@ -12,7 +12,7 @@ I am Rahul Kumar, MCA student.
 - [Connect With Me](https://bit.ly/m/codingrah)
 
 ## Resume
-📃 [Google Drive Link](https://drive.google.com/a)
+📃 [Google Drive Link](https://drive.google.com/file/d/1sPUkfbD2oM-5hmBhY5ZWwmvtRRhifwk8/view?usp=sharing)
 
 
 <h2 align="center">Stats</h2>
