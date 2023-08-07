@@ -24,7 +24,7 @@ I am Rahul Kumar, MCA student.
 </p><br />
 
 <div align="center">
-<!--     Snake eating bna le  -->
+<!--     Snake eating bna lena  -->
   <!-- 
 ![github contribution grid snake animation](https://github.com/Rahullkumr/Rahullkumr/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://github.com/Rahullkumr/Rahullkumr/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
