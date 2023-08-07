@@ -29,9 +29,9 @@ I am Rahul Kumar, MCA student.
 ![github contribution grid snake animation](https://github.com/Rahullkumr/Rahullkumr/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://github.com/Rahullkumr/Rahullkumr/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
   -->
-<img src="https://github-readme-stats-rahullkumr.vercel.app/api/top-langs?username=Rahullkumr&langs_count=6&exclude_repo=github-readme-stats,Rahullkumr,hacktoberfest-practice,LearnML&layout=compact&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Rahullkumr" />
+<img src="https://github-readme-stats-six-plum.vercel.app/api/top-langs?username=Rahullkumr&langs_count=6&exclude_repo=github-readme-stats,Rahullkumr,hacktoberfest-practice,LearnML&layout=compact&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Rahullkumr" />
   
-<img src="https://github-readme-stats-rahullkumr.vercel.app/api?username=Rahullkumr&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&include_all_commits=false&count_private=true&custom_title=%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87%20%F0%9F%99%8F%20Programmers!" alt="Rahullkumr" />
+<img src="https://github-readme-stats-six-plum.vercel.app/api?username=Rahullkumr&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&include_all_commits=false&count_private=true&custom_title=%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87%20%F0%9F%99%8F%20Programmers!" alt="Rahullkumr" />
   
 </div>
 
