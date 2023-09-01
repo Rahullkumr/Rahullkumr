@@ -25,7 +25,7 @@ I am Rahul Kumar, MCA student.
 📃 [Google Drive Link](https://drive.google.com/file/d/1hmv1EhX8CGcAHgfQFGoCP-ojtZWbYrWm/view?usp=sharing)
 
 ## Hosted Projects
-[Online Assessement System](https://onlineasystem.000webhostapp.com)
+- [Online Assessement System](https://onlineasystem.000webhostapp.com)
 
 <h2 align="center">Stats</h2>
 
