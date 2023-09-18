@@ -24,6 +24,9 @@ I am Rahul Kumar, MCA student.
 ## Resume 
 📃 [Google Drive Link](https://drive.google.com/file/d/1hmv1EhX8CGcAHgfQFGoCP-ojtZWbYrWm/view?usp=sharing)
 
+## Open Source Contri
+- [First open source contribution](https://github.com/RetroMusicPlayer/Paisa/pull/330)
+
 ## Hosted Projects
 - [Online Assessement System](https://onlineasystem.000webhostapp.com)
 
