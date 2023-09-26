@@ -22,7 +22,7 @@ I am Rahul Kumar, MCA student.
 - Connect With Me [click me](https://bit.ly/m/codingrah)
 
 ## Resume 
-📃 Google Drive Link [click me](https://drive.google.com/file/d/1hmv1EhX8CGcAHgfQFGoCP-ojtZWbYrWm/view?usp=sharing)
+📃 Google Drive Link [click me](https://drive.google.com/file/d/1lJnxms3DPDg1yy3P9SdDre4arh3ySccc/view?usp=sharing)
 
 ## Open Source Contri
 - First open source contribution [click me](https://github.com/RetroMusicPlayer/Paisa/pull/330)
