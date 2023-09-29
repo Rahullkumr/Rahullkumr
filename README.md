@@ -24,11 +24,13 @@ I am Rahul Kumar, MCA student.
 ## Resume 
 📃 Google Drive Link [click me](https://drive.google.com/file/d/1lJnxms3DPDg1yy3P9SdDre4arh3ySccc/view?usp=sharing)
 
-## Open Source Contri
-- First open source contribution [click me](https://github.com/RetroMusicPlayer/Paisa/pull/330)
-
 ## Hosted Projects
 - Online Assessement System [click me](https://onlineasystem.000webhostapp.com)
+
+## Open Source
+- First open source contribution [click me](https://github.com/RetroMusicPlayer/Paisa/pull/330)
+- Hacktoberfest2023
+[![An image of @rahullkumr's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rahullkumr)](https://holopin.io/@rahullkumr)
 
 <h2 align="center">Stats</h2>
 
