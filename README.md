@@ -22,7 +22,7 @@ I am Rahul Kumar, MCA student.
 - Connect With Me [click me](https://bit.ly/m/codingrah)
 
 ## Resume 
-📃 Google Drive Link [click me](https://drive.google.com/file/d/1lJnxms3DPDg1yy3P9SdDre4arh3ySccc/view?usp=sharing)
+📃 Google Drive Link [click me](https://drive.google.com/file/d/1Oc3qIU0KIYQvKesNupoeSyfZTtfyLoTQ/view?usp=sharing)
 
 ## Hosted Projects
 - Online Assessement System [click me](https://onlineasystem.000webhostapp.com)
@@ -31,7 +31,6 @@ I am Rahul Kumar, MCA student.
 - First open source contribution [click me](https://github.com/RetroMusicPlayer/Paisa/pull/330)
 - Hacktoberfest2023
 
-<!-- [![An image of @rahullkumr's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rahullkumr)](https://holopin.io/@rahullkumr) -->
 
 [![An image of @rahullkumr's Holopin badges, which is a link to view their full Holopin profile](./holopin.png)](https://holopin.io/@rahullkumr)
 
