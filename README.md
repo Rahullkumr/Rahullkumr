@@ -1,8 +1,8 @@
 ### Hi there 👋
-I am Rahul Kumar, MCA student.
+I am Rahul Kumar, Full Stack Python Developer.
 
 ## Skills <img src = "/tag.webp" width = 32px>
-- Python, Java, Dart
+- Python, JavaScript, HTML5, CSS3, Dart
 - Flask, Flutter
 - DSA 
 - MYSQL, SQLite
@@ -18,11 +18,7 @@ I am Rahul Kumar, MCA student.
 -->
 
 ## Contact
-- Email [click me](mailto:kumarrahul771996@gmail.com)
 - Connect With Me [click me](https://bit.ly/m/codingrah)
-
-## Resume
-📃 Google Drive Link [click me](https://drive.google.com/file/d/1qi5Ve8TPgBHSmy3hPdJnwpUwUrqiYBN9/view?usp=sharing)
 
 ## Hosted Projects
 - Online Assessement System [Visit Website](https://onlineasystem.000webhostapp.com) | [Code](https://github.com/Rahullkumr/onlineasystem)
@@ -61,12 +57,14 @@ solution video:
   https://www.youtube.com/watch?v=n6d4KHSKqGk&t=107s
 -->
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rahullkumr&langs_count=6&exclude_repo=github-readme-stats,Rahullkumr&layout=compact&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Rahullkumr" />
 
-<img src="https://github-readme-stats-rahullkumr.vercel.app/api/top-langs?username=Rahullkumr&langs_count=6&exclude_repo=github-readme-stats,Rahullkumr&layout=compact&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Rahullkumr" />
+<img src="https://github-readme-stats.vercel.app/api?username=Rahullkumr&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&include_all_commits=false&count_private=true&custom_title=%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87%20%F0%9F%99%8F%20Programmers!" alt="Rahullkumr" />
+
   
-<img src="https://github-readme-stats-rahullkumr.vercel.app/api?username=Rahullkumr&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&include_all_commits=false&count_private=true&custom_title=%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87%20%F0%9F%99%8F%20Programmers!" alt="Rahullkumr" />
-  
-</div>
+</div><br><br>
+
+[![Rahul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rahullkumr&bg_color=000000&color=08fd0c&line=00ebdb&point=ffbc05&area=true&hide_border=true)](https://github.com/rahullkumr/github-readme-activity-graph) 
 
 <br /><br />
 <p align="center">
