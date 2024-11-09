@@ -1,11 +1,11 @@
 ### Hi there 👋
-I am Rahul Kumar, Full Stack Python Developer.
+I am Rahul Kumar, Full Stack Developer.
 
 ## Skills <img src = "/tag.webp" width = 32px>
-- Python, JavaScript, HTML5, CSS3, Dart
-- Flask, Flutter
-- DSA 
-- MYSQL, SQLite
+- Python, JavaScript, Dart
+- React (soon), Tailwind (soon), Flutter
+- Django (soon)
+- MYSQL, SQLite, Mongodb (soon)
   
 <!--
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) ![Shell](https://img.shields.io/badge/Shell-05122A?style=flat&logo=gnu-bash&logoColor=white) ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=white) ![Golang](https://img.shields.io/badge/-Golang-05122A?style=flat&logo=go&logoColor=white) ![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin) ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
@@ -19,12 +19,13 @@ I am Rahul Kumar, Full Stack Python Developer.
 
 ## Contact
 - Connect With Me [click me](https://bit.ly/m/codingrah)
+- Portfolio [click me](https://github.com/Rahullkumr/portfolio)
 
 ## Hosted Projects
-- Online Assessement System [Visit Website](https://onlineasystem.000webhostapp.com) | [Code](https://github.com/Rahullkumr/onlineasystem)
+- Guess Indian states and UTs game [Visit Website](https://rahullkumr.github.io/mini-projects/projects/06_guessIndia.html) | [Code](https://github.com/Rahullkumr/GuessIndianStatesAndUTs/tree/inJS)
+- Mini Projects [Visit Website](https://rahullkumr.github.io/mini-projects/) | [Code](https://github.com/Rahullkumr/mini-projects)
 
 ## Open Source
-- First open source contribution [click me](https://github.com/RetroMusicPlayer/Paisa/pull/330)
 - Hacktoberfest2023
 
 
