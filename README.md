@@ -2,8 +2,8 @@
 I am Rahul Kumar, Full Stack Developer.
 
 ## Skills <img src = "/tag.webp" width = 32px>
-- Python, JavaScript, Dart
-- React (soon), Tailwind (soon), Flutter
+- Python, JavaScript, SQL, Dart
+- React, Tailwind, Bootstrap, GSAP, Flutter
 - Django (soon)
 - MYSQL, SQLite, Mongodb (soon)
   
@@ -18,8 +18,8 @@ I am Rahul Kumar, Full Stack Developer.
 -->
 
 ## Contact
-- Connect With Me [click me](https://bit.ly/m/codingrah)
-- Portfolio [click me](https://github.com/Rahullkumr/portfolio)
+- Connect With Me [click](https://bit.ly/m/codingrah)
+- Portfolio [click](https://github.com/Rahullkumr/portfolio)
 
 ## Hosted Projects
 - Guess Indian states and UTs game [Visit Website](https://rahullkumr.github.io/mini-projects/projects/06_guessIndia.html) | [Code](https://github.com/Rahullkumr/GuessIndianStatesAndUTs/tree/inJS)
