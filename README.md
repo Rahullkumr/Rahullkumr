@@ -22,7 +22,7 @@ I am Rahul Kumar, Full Stack Developer.
 - Portfolio [click](https://github.com/Rahullkumr/portfolio)
 
 ## Hosted Projects
-- Guess Indian states and UTs game [Visit Website](https://rahullkumr.github.io/mini-projects/projects/06_guessIndia.html) | [Code](https://github.com/Rahullkumr/GuessIndianStatesAndUTs/tree/inJS)
+- Guess Indian states and UTs game [Visit Website](https://rahullkumr.github.io/mini-projects/projects/08_guessIndia.html) | [Code](https://github.com/Rahullkumr/GuessIndianStatesAndUTs/tree/inJS)
 - Mini Projects [Visit Website](https://rahullkumr.github.io/mini-projects/) | [Code](https://github.com/Rahullkumr/mini-projects)
 
 ## Open Source
