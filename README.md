@@ -4,7 +4,7 @@ I am Rahul Kumar, Full Stack Developer.
 ## Skills <img src = "/tag.webp" width = 32px>
 - Python, JavaScript, SQL, Dart
 - React, Tailwind, Bootstrap, GSAP, Flutter
-- Django (soon)
+- Django, Flask
 - MYSQL, SQLite, Mongodb (soon)
   
 <!--
@@ -17,12 +17,8 @@ I am Rahul Kumar, Full Stack Developer.
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC) ![IntelliJ](https://img.shields.io/badge/-IntelliJ-05122A?style=flat&logo=jetbrains) ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman) ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=white) ![MacOS](https://img.shields.io/badge/-MacOS-05122A?style=flat&logo=apple)&nbsp;
 -->
 
-## Contact
-- Connect With Me [click](https://bit.ly/m/codingrah)
-- Portfolio [click](https://github.com/Rahullkumr/portfolio)
-
 ## Hosted Projects
-- Guess Indian states and UTs game [Visit Website](https://rahullkumr.github.io/mini-projects/projects/08_guessIndia.html) | [Code](https://github.com/Rahullkumr/GuessIndianStatesAndUTs/tree/inJS)
+- Guess Indian states and UTs game [Visit Website](https://rahullkumr.github.io/mini-projects/projects/08_guessIndia.html) | [Code](https://github.com/Rahullkumr/GuessIndianStatesAndUTs/tree/web-version)
 - Mini Projects [Visit Website](https://rahullkumr.github.io/mini-projects/) | [Code](https://github.com/Rahullkumr/mini-projects)
 
 ## Open Source
@@ -67,15 +63,15 @@ solution video:
 
 [![Rahul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rahullkumr&bg_color=000000&color=08fd0c&line=00ebdb&point=ffbc05&area=true&hide_border=true)](https://github.com/rahullkumr/github-readme-activity-graph) 
 
-<br /><br />
+
+<br/><br />
 <p align="center">
     <img src="https://github.com/Rahullkumr/Rahullkumr/blob/main/bye.svg">
-</p>
-<br>
+</p><br>
+
 <p>
   <img src = "dynamic_hr.gif">
 </p>
-
 
 <!-- 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vikash-8090-Yadav&bg_color=000000&color=08fd0c&line=00ebdb&point=ffbc05&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) 
