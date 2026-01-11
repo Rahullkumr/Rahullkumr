@@ -1,3 +1,4 @@
+### Hi there 👋
 I am Rahul Kumar, Full Stack Developer.
 
 ## Skills <img src = "/tag.webp" width = 32px>
@@ -35,7 +36,7 @@ I am Rahul Kumar, Full Stack Developer.
 <br> <br>
 
 <p align="center">
-    <img alt="Rahul's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Rahullkumr&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <img alt="Rahul's streak" src="https://github-readme-streak-stats-one-plum.vercel.app?user=Rahullkumr&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
 </p><br />
 
 <div align="center">
