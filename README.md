@@ -1,11 +1,12 @@
-### Hi there 👋
 I am Rahul Kumar, Full Stack Developer.
 
 ## Skills <img src = "/tag.webp" width = 32px>
-- Python, JavaScript, SQL, Dart
-- React, Tailwind, MUI, GSAP, Flutter
-- Fastify, Django, Flask
+
+- JavaScript, Python, SQL, Dart
+- React, MUI, Tailwind, GSAP, Flutter
+- Fastify, Nestjs, Django, Flask
 - MYSQL, SQLite
+- Git, GitHub, Zed, AntiGravity
   
 <!--
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) ![Shell](https://img.shields.io/badge/Shell-05122A?style=flat&logo=gnu-bash&logoColor=white) ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=white) ![Golang](https://img.shields.io/badge/-Golang-05122A?style=flat&logo=go&logoColor=white) ![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin) ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
@@ -21,12 +22,12 @@ I am Rahul Kumar, Full Stack Developer.
 - Guess Indian states and UTs game [Visit Website](https://rahullkumr.github.io/mini-projects/projects/08_guessIndia.html) | [Code](https://github.com/Rahullkumr/GuessIndianStatesAndUTs/tree/web-version)
 - Mini Projects [Visit Website](https://rahullkumr.github.io/mini-projects/) | [Code](https://github.com/Rahullkumr/mini-projects)
 
+
 ## Open Source
-- Hacktoberfest2023
 
+<!-- - Hacktober Fest -->
 
-[![An image of @rahullkumr's Holopin badges, which is a link to view their full Holopin profile](./holopin.png)](https://holopin.io/@rahullkumr)
-
+[![An image of @rahullkumr's Holopin badges, which is a link to view their full Holopin profile](./holopinBoard.png)](https://holopin.io/@rahullkumr)
 
 
 <h2 align="center">Stats</h2>
