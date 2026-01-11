@@ -3,9 +3,9 @@ I am Rahul Kumar, Full Stack Developer.
 
 ## Skills <img src = "/tag.webp" width = 32px>
 - Python, JavaScript, SQL, Dart
-- React, Tailwind, Bootstrap, GSAP, Flutter
-- Django, Flask
-- MYSQL, SQLite, Mongodb (soon)
+- React, Tailwind, MUI, GSAP, Flutter
+- Fastify, Django, Flask
+- MYSQL, SQLite
   
 <!--
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) ![Shell](https://img.shields.io/badge/Shell-05122A?style=flat&logo=gnu-bash&logoColor=white) ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=white) ![Golang](https://img.shields.io/badge/-Golang-05122A?style=flat&logo=go&logoColor=white) ![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin) ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
