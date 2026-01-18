@@ -49,7 +49,6 @@ I am Rahul Kumar, Full Stack Software Engineer.
 
 
 
-
 <h2 align="center">Stats</h2> <br><br>
 
 <p align="center">
