@@ -81,8 +81,7 @@ I am Rahul Kumar, Full Stack Software Engineer.
 
 
 <!--
-  Setup note for the two github-readme-stats cards below (self-hosted fork,
-  used because the public instance is rate-limited):
+  Setup note for the two github-readme-stats cards below:
   Add an env variable called PAT_1 with your github token in vercel.
   solution video: https://www.youtube.com/watch?v=n6d4KHSKqGk&t=107s
 -->
