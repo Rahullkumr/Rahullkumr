@@ -97,8 +97,12 @@ I am Rahul Kumar, Full Stack Software Engineer.
 
 
 
-<!-- Activity graph - commits over time, links to the generator repo -->
-[![Rahul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rahullkumr&bg_color=000000&color=08fd0c&line=00ebdb&point=ffbc05&area=true&hide_border=true)](https://github.com/rahullkumr/github-readme-activity-graph) 
+<!--
+  Activity graph - commits over time, links to the generator repo.
+  Served by a self-hosted fork on Vercel; needs an env variable called TOKEN
+  (a github PAT with repo scope).
+-->
+[![Rahul's github activity graph](https://github-readme-activity-graph-dusky-pi.vercel.app/graph?username=rahullkumr&bg_color=000000&color=08fd0c&line=00ebdb&point=ffbc05&area=true&hide_border=true)](https://github.com/rahullkumr/github-readme-activity-graph) 
 
 
 
