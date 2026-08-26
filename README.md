@@ -81,16 +81,24 @@ I am Rahul Kumar, Full Stack Software Engineer.
 
 
 <!--
-  Setup note for the two github-readme-stats cards below:
-  Add an env variable called PAT_1 with your github token in vercel.
+  The two cards below are served by github-stats-extended, the maintained
+  successor to the now-unmaintained anuraghazra/github-readme-stats:
+  https://github.com/stats-organization/github-stats-extended
+  Query params are unchanged from github-readme-stats - only the host differs.
+  Using the public instance, so no vercel deploy or PAT is needed. To self-host
+  instead, fork that repo, deploy to vercel, add an env variable called PAT_1
+  holding a *classic* github token with `repo` scope (a fine-grained token
+  fails the stats query with "Resource not accessible by personal access
+  token"), then swap the host below back to your own deployment.
+
   solution video: https://www.youtube.com/watch?v=n6d4KHSKqGk&t=107s
 -->
 
 <!-- Top languages - excludes repos that skew the counts -->
-<img src="https://github-readme-stats-one-ruby-59.vercel.app/api/top-langs?username=Rahullkumr&langs_count=6&exclude_repo=github-readme-stats,Rahullkumr,DataScience-session,IMCC&layout=compact&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Rahullkumr" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=Rahullkumr&langs_count=6&exclude_repo=github-readme-stats,Rahullkumr,DataScience-session,IMCC&layout=compact&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Rahullkumr" />
 
 <!-- Overall stats card - custom_title is URL-encoded "नमस्ते 🙏 Programmers!" -->
-<img src="https://github-readme-stats-one-ruby-59.vercel.app/api?username=Rahullkumr&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&include_all_commits=false&count_private=true&custom_title=%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87%20%F0%9F%99%8F%20Programmers!" alt="Rahullkumr" />  
+<img src="https://github-stats-extended.vercel.app/api?username=Rahullkumr&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&include_all_commits=false&count_private=true&custom_title=%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87%20%F0%9F%99%8F%20Programmers!" alt="Rahullkumr" />  
 </div><br><br>
 
 
