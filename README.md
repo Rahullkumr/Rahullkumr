@@ -75,8 +75,6 @@ I am Rahul Kumar, Full Stack Software Engineer.
 ![github contribution grid snake animation](https://github.com/Rahullkumr/Rahullkumr/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 
-<!-- Space shooter game demo -->
-![Space Shooter Game](./game.gif)
 
 
 
